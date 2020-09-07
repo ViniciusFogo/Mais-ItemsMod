@@ -1,0 +1,28 @@
+{
+	"type": "GenericSmelter",
+	"name": "graphite forge",
+	"description": "faz muita grafite com pouca quantidade de carvão junto com energia.",
+	"outputItem": {"item": "graphite", "amount": 100},
+	"size": 2,
+	"hasPower": true,
+	"hasLiquids": false,
+	"hasItems": true,
+	"craftTime": 1,
+	"updateEffect": "smeltsmoke",
+	"consumes": {
+		"power": 15.0,
+		"items": {
+			"items": [
+				{ "item": "coal", "amount": 7 }
+			]
+	},
+}
+	"requirements": [
+		{ "item": "lead", "amount": 50 },
+		{ "item": "copper", "amount": 180 },
+	],
+	"category": "crafting",
+	"research": "graphite-press",
+	"idleSound": "respawning",
+	"idleSoundVolume": 0.5
+}

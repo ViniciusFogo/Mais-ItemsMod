@@ -1,0 +1,6 @@
+name: "Mais-Itens"
+displayName: "[orange]Mais[gold] itens"
+author: "ViniciusFogo"
+description: "A simple mod. Demonstrates how to make[accent] new ores[] and[orange] machines.[]"
+version: "0.5"
+minGameVersion: "103"

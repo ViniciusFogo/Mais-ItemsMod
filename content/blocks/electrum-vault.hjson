@@ -1,0 +1,12 @@
+name: Electrum Vault
+description: Shocking way of storing items.
+type: Vault
+itemCapacity: 250000
+hasItems: true
+health: 200000
+size: 3
+requirements: [
+  copper/0
+]
+category: effect
+research: mechanical-drill

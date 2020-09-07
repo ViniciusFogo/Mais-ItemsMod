@@ -1,0 +1,13 @@
+type: Battery
+name: Gigantic Battery
+description: A massive battery.
+size: 2
+hasPower: true
+consumes: { 
+powerBuffered: 2500000
+}
+requirements: [
+ lead/80
+]
+category: power
+research: battery

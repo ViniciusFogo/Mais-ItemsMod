@@ -1,0 +1,9 @@
+type: Conveyor
+name: Electrum conveyor
+description: Example conveyor.
+requirements: [
+  copper/3
+]
+category: distribution
+speed: 100
+research: mechanical-drill

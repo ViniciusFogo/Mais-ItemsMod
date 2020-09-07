@@ -1,0 +1,13 @@
+name: Electrum Drill
+description: A very strange drill.
+type: Drill
+size: 3
+tier: 2
+drillTime:0
+requirements: 
+[
+  copper/0
+]
+
+category: production
+research: mechanical-drill

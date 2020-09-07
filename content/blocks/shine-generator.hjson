@@ -1,0 +1,21 @@
+type: SingleTypeGenerator
+name: Shine Generator
+description: Magically produces power from sand. Don't ask why.
+size: 2
+hasPower: true
+hasItems: true
+itemDuration: 30
+powerProduction: 750
+consumes: {
+  items: {
+    items: [
+      copper/1.0
+    ]
+    optional: true
+  }
+}
+requirements: [
+  copper/0
+]
+category: power
+research: mechanical-drill
